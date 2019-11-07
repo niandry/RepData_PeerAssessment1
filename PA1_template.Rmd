@@ -2,7 +2,10 @@
 title: "Assigment 1"
 author: "Niandry M"
 date: "11/6/2019"
-output: html_document
+output: 
+md_document:
+variant: markdown_github
+
 ---
 
 ```{r setup, include=FALSE}
